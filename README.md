@@ -22,4 +22,4 @@ limit feature for every customer for Security purpose.
 				   Secure as we need to access DB with username and password
 				   I have used MySQL DB	-> Oracle
 I am developing the Application Software as well as Web App for the Solution.
-Thnaks!
+#### Tnanks!
