@@ -11,7 +11,7 @@ Later on owner can search the customer by his phone or Unique ID to
 get the data if any incident happened in the Store. There is also a time
 limit feature for every customer for Security purpose.
 
-# Problem in Persistence State 
+### Problem in Persistence State 
 	1. Files in Local PC:
 		Challenge: Unstructured Storage
 				   Hence, write operations for update and delete some information in file becomes challenging
@@ -22,4 +22,4 @@ limit feature for every customer for Security purpose.
 				   Secure as we need to access DB with username and password
 				   I have used MySQL DB	-> Oracle
 I am developing the Application Software as well as Web App for the Solution.
-#### Tnanks!
+#### Thanks!!
