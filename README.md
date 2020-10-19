@@ -4,7 +4,7 @@
 This Project is basic CMS(Content Management System) software for
 COVID-19 time that uses a database to store the persistent state of the
 customers in the real time in any shop or store.
-# Purpose
+## Purpose
 Once a customer came into the store, owner can fill the data like name,
 phone, temperature and entry time to track the customers information.
 Later on owner can search the customer by his phone or Unique ID to
